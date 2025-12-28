@@ -1,2 +1,2 @@
 # JogodaVelha
-Created with CodeSandbox
+Simulação básica do jogo da velha.
